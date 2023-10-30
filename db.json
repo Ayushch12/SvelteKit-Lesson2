@@ -19,6 +19,27 @@
             "description":"Description 3"
          }
 
+    ],
+    "postcodes" : [
+
+      {
+         "postcodes": "E3 4NA",
+         "postcode_inward": "4NA",
+         "postcode_outward": "E3 ",
+         "postcodes_qq": "4NA",
+         "postcodes_aa": "5NA",
+         "postcodes_rr": "9NA",
+         "postcodes_bb": "5NA",
+         "postcodes_eq": "8NA"
+
+
+
+
+
+
+
+      }
+
     ]
 
 }
