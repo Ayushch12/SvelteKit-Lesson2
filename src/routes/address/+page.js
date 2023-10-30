@@ -8,3 +8,4 @@ export const load = async (loadEvent) => {
 
     return { addressList }; // corrected placement of curly braces
 };
+
